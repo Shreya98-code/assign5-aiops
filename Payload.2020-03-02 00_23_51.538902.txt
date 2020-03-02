@@ -1,0 +1,1 @@
+{"Date and Time of request": "2020-03-02 00:23:51.538902", "Tweet": "This is disgusting !", "sentiment": "negative", "Probability": 0.141780481, "Preprocessing Time": "0.0", "Model Inference Time": "0.22"}
